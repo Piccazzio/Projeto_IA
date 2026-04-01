@@ -1,4 +1,4 @@
-# Projeto_IA
+## Detecção de Discurso de ódio e toxicidade conversacional com GNN em Plataformas de Redes Sociais
 
 ### Integrantes
 

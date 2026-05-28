@@ -9,7 +9,7 @@
 ### Descrição do Projeto
 
 Este projeto tem como objetivo o desenvolvimento de um modelo computacional para detecção de discurso de ódio em redes sociais, utilizando técnicas de Processamento de Linguagem Natural (PLN) e, futuramente, Redes Neurais em Grafos (GNN).
-A abordagem combina o modelo BERTimbau para classificação textual e geração de embeddings semânticos com estruturas em grafos, permitindo analisar tanto o conteúdo das mensagens quanto as relações contextuais entre os textos. Os resultados iniciais demonstraram potencial da integração entre PLN e modelagem em grafos para aprimorar a identificação automática de conteúdos ofensivos e discurso de ódio em ambientes digitais.
+A abordagem combina o modelo BERTimbau para classificação textual e geração de embeddings semânticos com estruturas em grafos, permitindo analisar tanto o conteúdo das mensagens quanto as relações contextuais entre os textos. Os resultados demonstraram potencial da integração entre PLN e modelagem em grafos para aprimorar a identificação automática de conteúdos ofensivos e discurso de ódio em ambientes digitais.
 
 ### Dataset
 
